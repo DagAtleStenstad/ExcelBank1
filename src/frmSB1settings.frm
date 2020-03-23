@@ -29,7 +29,7 @@ Private Sub cmdOk_Click()
 End Sub
 
 Private Sub lblExcelBank1_Click()
- ActiveWorkbook.FollowHyperlink "https://bitbucket.org/Stenstad/excelbank1/src/master/"
+ ActiveWorkbook.FollowHyperlink "https://github.com/DagAtleStenstad/ExcelBank1"
 End Sub
 
 Private Sub UserForm_Initialize()
